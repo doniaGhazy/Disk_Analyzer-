@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Icons/About.ico</file>
+        <file>Icons/Analyze_directory.png</file>
+        <file>Icons/exit.png</file>
+        <file>Icons/root.png</file>
+        <file>Icons/settings.png</file>
+        <file>Icons/refresh.png</file>
+        <file>Icons/stop.png</file>
+        <file>Icons/home.png</file>
+        <file>Icons/Main_icon.svg</file>
+        <file>Icons/Terminal.png</file>
+        <file>Icons/dir.png</file>
+        <file>Icons/dir2.png</file>
+        <file>Icons/folder.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
